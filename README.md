@@ -1,5 +1,5 @@
 # Daily-JS-Puzzle-Workouts
-
+voice: Orus
 
 Start: June 2025
 
