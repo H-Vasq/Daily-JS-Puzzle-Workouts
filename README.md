@@ -6,7 +6,7 @@ Start: June 2025
 1. ~~Two Sum~~
 2. ~~Reverse a String~~
 3. ~~Palindrome Check~~
-4. FizzBuzz
+4. FizzBuzz -- Umbriel
 5. Find the Maximum Number in an Array
 6. Find the Minimum Number in an Array
 7. Binary Search
